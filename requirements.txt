@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+jupyter
+# Add TensorFlow or PyTorch later if we choose a deep learning model
+# For the API
+fastapi
+uvicorn[standard]
+seaborn
+matplotlib
